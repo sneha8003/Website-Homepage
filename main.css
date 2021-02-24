@@ -1,0 +1,133 @@
+.c1{
+	background-color: red;
+	color: white;
+}
+.c2{
+	background-color: #002263;
+	color: white;
+}
+.c3{
+	background-color: green;
+}
+.c4{
+	margin-top: 8px;
+}
+.c5{
+	margin-top: 30px;
+
+}
+.text{
+	margin-left: 160px;
+	text-align: center;
+}
+.line{
+	border: 1px solid red;
+
+}
+.logo img{
+	margin-top: 20px;
+	margin-left: 80px;
+	height: 106px;
+	width: 125px;
+}
+.flag{
+	margin-top: 20px;
+	width: 90px;
+	height: 90px;
+	margin-left: 10px;
+}
+.two{
+	color: white;
+	text-align: center;
+}
+.three{
+	margin-top: 20px;
+	background-color: green;
+	width: 150px;
+	border-radius: 8px;
+	text-align: center;
+}
+.navbar-toggle{
+	background-color: orange;
+
+}
+.recent{
+	background-color: #002263;
+	color: white;
+
+}
+.news{
+	float: left;
+}
+.menubar ul li a{
+	color: white;
+	border-right: 1px solid black;
+}
+.menubar ul li a:hover{
+	background-color: red;
+}
+.down{
+   	display: none;
+	position: absolute;
+ 	background-color: #002263;
+  	z-index:1;
+}
+.down li a{
+	width: 500px;
+
+}
+.down li a:active{
+	background-color: gray;
+
+}
+.dropdown:hover .down {
+  display: inline-block;
+}
+/*.img1 img{
+	width: 800px;
+	height: 200px;
+}
+.img2 img{
+	width: 800px;
+	height: 200px;
+	
+}*/
+.box{
+	border:1px solid black;
+  	border-radius: 10px;
+
+}
+.box1{
+	margin-top: 20px;
+	border:1px solid black;
+  	height: 300px;
+  	border-radius: 10px;
+
+}
+.box1 hr{
+	border: 1px solid red;
+
+}
+
+.box2{
+	margin-top: 15px;
+	border-radius: 8px;
+	border:1px solid black;
+	background-color: #002263;
+	color:white;
+	text-align: center;
+	
+}
+.footer{
+	background-color: gray;
+}
+
+
+
+
+
+
+
+
+
+
